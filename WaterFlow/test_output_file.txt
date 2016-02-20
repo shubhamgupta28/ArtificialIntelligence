@@ -1,0 +1,21 @@
+10 9
+G 25
+B 4
+BA 6
+Q 8
+B 4
+BA 6
+None
+BA 13 	 
+G2 4
+G 2
+G 8		
+D 25
+None  	MINE IS D 28
+D 22
+X 2
+X 2
+X 7
+G 5
+G 6
+G 11

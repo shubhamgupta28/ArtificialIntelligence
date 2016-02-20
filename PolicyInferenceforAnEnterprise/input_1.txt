@@ -1,0 +1,8 @@
+1
+C(CC)
+5
+A(x,AA,y,CC,w) ^ B(John) ^ D(x,w) => C(CC)
+E(XX) => A(a,b,c,CC,a)
+E(XX)
+B(John)
+D(XX,XX)
